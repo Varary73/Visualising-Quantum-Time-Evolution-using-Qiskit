@@ -30,4 +30,3 @@ https://fount.aucegypt.edu/cgi/viewcontent.cgi?article=1020&context=capstone </b
 https://youtu.be/7Bsx_4hOU3g </br>
 https://youtu.be/o96K8fkOrG8 </br>
 https://qiskit.org/textbook-beta </br>
-http://www.science4all.org/article/dynamics-of-the-wave-function/ </br>
