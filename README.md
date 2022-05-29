@@ -22,6 +22,7 @@ After understanding the fundamentals of using the split operator approach to sim
 
 ### Presentation
 [Presentation Link @ Google Slides](google.com)
+</br>
 [Video Presentation](youtube.com)
 
 ### References
