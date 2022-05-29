@@ -21,9 +21,7 @@ In our proposed solution, we started with the time-evolution wave function of a 
 After understanding the fundamentals of using the split operator approach to simulate one particle moving, the next step is to investigate particle interactions and chemical dynamics, which has tremendous research applications in domains. Such as drug development, condensed matter physics, and material science.
 
 ### Presentation
-[Presentation Link @ Google Slides](google.com)
-</br>
-[Video Presentation](youtube.com)
+[Presentation Link](youtube.com)
 
 ### References
 https://fount.aucegypt.edu/cgi/viewcontent.cgi?article=1020&context=capstone </br>
